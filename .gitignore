@@ -1,3 +1,8 @@
 # Basics
 /.env
 /node_modules
+/src/tests
+
+# Temp
+/src/views
+/src/routes/ui.js
