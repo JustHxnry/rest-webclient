@@ -1,0 +1,19 @@
+{
+  "name": "rest-client-web",
+  "version": "1.0.0",
+  "description": "API Client as web interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustHxnry/rest-webclient.git"
+  },
+  "author": "hxnry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustHxnry/rest-webclient/issues"
+  },
+  "homepage": "https://github.com/JustHxnry/rest-webclient#readme"
+}
