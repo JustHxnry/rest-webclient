@@ -12,5 +12,5 @@ module.exports = {
     port: settings.port,
     host: settings.host,
     domain: settings.domain,
-    url
+    url: settings.host + ":" + settings.port
 };
